@@ -7,7 +7,7 @@ $(document).ready(function() {
 
     /**********************Modify This*********************/
     //this is the base URL of all the state pages less the path.  So a state page may look like www.something.com/texas where "/texas" is incorporated using the "stateData" object below. 
-    var baseURL = "http://localhost/Taylor"
+    var baseURL = "http://localhost/Taylor";
 
 
     /**********************Modify This*********************/
@@ -291,7 +291,7 @@ $(document).ready(function() {
         }
         console.log(html);
         $('#select-state').html( html );
-    };
+    }
 
     //function to send user to the appropriate state page on dropdown click.  Takes the particular option element clicked as a parameter. 
     function sendUserToStatePageOnSelectClick( element ) {
