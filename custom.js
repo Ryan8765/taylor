@@ -344,7 +344,7 @@ $(document).ready(function() {
 	    onRegionTipShow: function(event, label, code){
 	        label.html(
 	          '<b>'+label.html()+'</b></br>'+
-	          '<b>Unemployment rate: </b>'+ stateData[code].numCommunities
+	          '<b>Number of Communities: </b>'+ stateData[code].numCommunities
 	        );
       	}
 
