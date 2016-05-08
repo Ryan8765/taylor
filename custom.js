@@ -289,7 +289,7 @@ $(document).ready(function() {
             html +=      stateInfo["stateName"];
             html += '</option>';
         }
-        console.log(html);
+        
         $('#select-state').html( html );
     }
 
@@ -303,7 +303,6 @@ $(document).ready(function() {
     $(document).on('change', '#select-state', function() {
       
         var stateSelectedURL = $(this).val();
-          alert(stateSelectedURL);
         window.location.href = stateSelectedURL;        
     });
 

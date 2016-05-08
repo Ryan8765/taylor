@@ -23,3 +23,7 @@
 	text-align: center;
 }
 
+
+html {
+	overflow: scroll;
+}
