@@ -11,9 +11,9 @@ $(document).ready(function() {
 
 
     /**********************Modify This*********************/
-    //Set all your data for different states here.
-    //"path" will be the path to the particular state of interest once clicked on.
-    //"numCommunities" will be the number of communities in that particular state.  
+    //Set all your data for different states here.  Do not change the values "US-VA" - these are read by the map.
+    //"path" will be the path to the particular state of interest once clicked on - change this.
+    //"numCommunities" will be the number of communities in that particular state - change this.  
 	var stateData = {
                         "US-VA": {
                             "path": "/texas",
