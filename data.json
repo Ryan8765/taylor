@@ -1,0 +1,257 @@
+data: {
+	"US-VA": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"		
+	},
+	"US-PA": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-TN": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-WV": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-NV": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-TX": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-NH": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-NY": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-HI": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-VT": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-NM": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-NC": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-ND": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-NE": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-LA": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-SD": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-DC": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-DE": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-FL": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-CT": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-WA": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-KS": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-WI": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-OR": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-KY": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-ME": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-OH": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-OK": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-ID": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-WY": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-UT": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-IN": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-IL": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-AK": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-NJ": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-CO": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-MD": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-MA": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-AL": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-MO": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-MN": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-CA": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-IA": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-MI": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-GA": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-AZ": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-MT": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-MS": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-SC": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-RI": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	},
+	"US-AR": {
+		"path": "/texas",
+		"numCommunities": "5",
+		"stateName":"Texas"
+	}
+}
